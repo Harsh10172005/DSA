@@ -6,6 +6,7 @@ C++
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/Harsh10172005/DSA/tree/master/0263-ugly-number) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh10172005/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 ## Two Pointers
 |  |
