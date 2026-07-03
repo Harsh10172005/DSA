@@ -1,32 +1,29 @@
 class Solution {
 public:
     int repeatedStringMatch(string a, string b) {
-        int ans = 1;
-        string a2 = a;
-        if(a.length()>=b.length()){
-            if(a.find(b) != string::npos){
-                return 1;
-            }
-            else if((a+a).find(b) != string::npos){
-                return 2;
-            }
-            else{
-                return -1;
-            }
+        string repeat = a;
+        int count = 1;
+
+        // Repeat karo jab tak repeat a b ke barabar na ho jaye
+        while (repeat.length() < b.length()) {
+            repeat += a;
+            count++;
         }
-        while(a2.length()<=b.length()){
-            a2+=a;
-            ans++;
-            if(a2.find(b)!=string::npos){
-                return ans;
-            }
-                
+
+        //check karo b present hai ya nhi
+        if (repeat.find(b) != string::npos) {
+            return count;
         }
-        a2 = a2+ a;
-        if(a2.find(b)!=string::npos){
-            return ans+1;
+
+        // Check karo boundary and overlap cases ke liye
+        repeat += a;
+        count++;
+
+        if (repeat.find(b) != string::npos) {
+            return count;
         }
+
         return -1;
-        
     }
 };
+        
