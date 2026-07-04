@@ -7,6 +7,7 @@ C++
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/Harsh10172005/DSA/tree/master/0263-ugly-number) |
+| [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh10172005/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Two Pointers
@@ -46,4 +47,12 @@ C++
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
