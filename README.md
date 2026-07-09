@@ -6,6 +6,7 @@ C++
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Harsh10172005/DSA/tree/master/0069-sqrtx) |
 | [0263-ugly-number](https://github.com/Harsh10172005/DSA/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh10172005/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -60,4 +61,8 @@ C++
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Harsh10172005/DSA/tree/master/1480-running-sum-of-1d-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Harsh10172005/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
