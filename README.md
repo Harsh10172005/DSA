@@ -79,6 +79,7 @@ C++
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Harsh10172005/DSA/tree/master/0069-sqrtx) |
+| [0374-guess-number-higher-or-lower](https://github.com/Harsh10172005/DSA/tree/master/0374-guess-number-higher-or-lower) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,8 @@ C++
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/Harsh10172005/DSA/tree/master/0647-palindromic-substrings) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Harsh10172005/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
