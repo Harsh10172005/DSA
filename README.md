@@ -11,6 +11,7 @@ C++
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh10172005/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Harsh10172005/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
 |  |
 | ------- |
