@@ -20,6 +20,7 @@ C++
 | [0392-is-subsequence](https://github.com/Harsh10172005/DSA/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Harsh10172005/DSA/tree/master/0647-palindromic-substrings) |
 | [0925-long-pressed-name](https://github.com/Harsh10172005/DSA/tree/master/0925-long-pressed-name) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ C++
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsh10172005/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh10172005/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3866-first-unique-even-element](https://github.com/Harsh10172005/DSA/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
@@ -126,4 +128,8 @@ C++
 | ------- |
 | [0278-first-bad-version](https://github.com/Harsh10172005/DSA/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harsh10172005/DSA/tree/master/0374-guess-number-higher-or-lower) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
