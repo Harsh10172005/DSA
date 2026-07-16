@@ -73,6 +73,7 @@ C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Harsh10172005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -137,4 +138,12 @@ C++
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Harsh10172005/DSA/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Harsh10172005/DSA/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
