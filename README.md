@@ -26,6 +26,7 @@ C++
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
@@ -71,6 +72,7 @@ C++
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
