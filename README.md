@@ -10,6 +10,7 @@ C++
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh10172005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Harsh10172005/DSA/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/Harsh10172005/DSA/tree/master/0343-integer-break) |
 | [0633-sum-of-square-numbers](https://github.com/Harsh10172005/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh10172005/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -134,6 +135,7 @@ C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/Harsh10172005/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Harsh10172005/DSA/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Harsh10172005/DSA/tree/master/0647-palindromic-substrings) |
 ## Interactive
