@@ -57,6 +57,7 @@ C++
 | [0162-find-peak-element](https://github.com/Harsh10172005/DSA/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
 | [0414-third-maximum-number](https://github.com/Harsh10172005/DSA/tree/master/0414-third-maximum-number) |
+| [0496-next-greater-element-i](https://github.com/Harsh10172005/DSA/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsh10172005/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh10172005/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -81,6 +82,7 @@ C++
 | [0155-min-stack](https://github.com/Harsh10172005/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harsh10172005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harsh10172005/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Harsh10172005/DSA/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
@@ -120,6 +122,7 @@ C++
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Harsh10172005/DSA/tree/master/0041-first-missing-positive) |
+| [0496-next-greater-element-i](https://github.com/Harsh10172005/DSA/tree/master/0496-next-greater-element-i) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harsh10172005/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harsh10172005/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -158,4 +161,8 @@ C++
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harsh10172005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harsh10172005/DSA/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Harsh10172005/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
