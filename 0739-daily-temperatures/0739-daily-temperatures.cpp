@@ -4,7 +4,6 @@ public:
         int n = temperatures.size();
         vector<int> ans(n,0);
         stack<int> st;
-        int j = n-1;
         for(int k = n-1;k>=0;k--){
             int current = temperatures[k];
             while(!st.empty()&&temperatures[st.top()]<=current){
@@ -14,8 +13,7 @@ public:
                 ans[k]=0;
             }
             else{
-                j = st.top();
-                ans[k] = j-k;
+                ans[k] = st.top()-k;
             }
             st.push(k);
         }
