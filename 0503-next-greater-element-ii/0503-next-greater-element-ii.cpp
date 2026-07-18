@@ -9,11 +9,13 @@ public:
             while(!st.empty()&&st.top()<=current){
                 st.pop();
             }
-            if(st.empty()){
-                ans[index]=-1;
-            }
-            else{
-                ans[index] = st.top();
+            if(i<nums.size()){ // kyonki agar aisa nhi karunag to value do baar jayegi galt nhi boga but ye time ko or better karega
+                if(st.empty()){
+                    ans[index]=-1;
+                }
+                else{
+                    ans[index] = st.top();
+                }
             }
             st.push(current);
         }
