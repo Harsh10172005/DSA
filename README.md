@@ -34,6 +34,7 @@ C++
 | [0151-reverse-words-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
 | [0392-is-subsequence](https://github.com/Harsh10172005/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Harsh10172005/DSA/tree/master/0394-decode-string) |
 | [0520-detect-capital](https://github.com/Harsh10172005/DSA/tree/master/0520-detect-capital) |
 | [0647-palindromic-substrings](https://github.com/Harsh10172005/DSA/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Harsh10172005/DSA/tree/master/0686-repeated-string-match) |
@@ -85,6 +86,7 @@ C++
 | [0155-min-stack](https://github.com/Harsh10172005/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harsh10172005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harsh10172005/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/Harsh10172005/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Harsh10172005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Harsh10172005/DSA/tree/master/0739-daily-temperatures) |
@@ -106,6 +108,7 @@ C++
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/Harsh10172005/DSA/tree/master/0394-decode-string) |
 ## Prefix Sum
 |  |
 | ------- |
