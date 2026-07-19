@@ -13,6 +13,7 @@ C++
 | [0343-integer-break](https://github.com/Harsh10172005/DSA/tree/master/0343-integer-break) |
 | [0633-sum-of-square-numbers](https://github.com/Harsh10172005/DSA/tree/master/0633-sum-of-square-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh10172005/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1486-xor-operation-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsh10172005/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 ## Two Pointers
@@ -100,6 +101,7 @@ C++
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
+| [1486-xor-operation-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
 |  |
 | ------- |
