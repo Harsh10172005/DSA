@@ -69,6 +69,7 @@ C++
 | [1480-running-sum-of-1d-array](https://github.com/Harsh10172005/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh10172005/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Harsh10172005/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3866-first-unique-even-element](https://github.com/Harsh10172005/DSA/tree/master/3866-first-unique-even-element) |
 ## Sorting
 |  |
