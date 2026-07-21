@@ -49,6 +49,7 @@ C++
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harsh10172005/DSA/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harsh10172005/DSA/tree/master/0035-search-insert-position) |
@@ -138,6 +139,7 @@ C++
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Harsh10172005/DSA/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/Harsh10172005/DSA/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/Harsh10172005/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
