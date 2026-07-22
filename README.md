@@ -21,6 +21,7 @@ C++
 | ------- |
 | [0015-3sum](https://github.com/Harsh10172005/DSA/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh10172005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/Harsh10172005/DSA/tree/master/0392-is-subsequence) |
@@ -57,6 +58,7 @@ C++
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harsh10172005/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Harsh10172005/DSA/tree/master/0041-first-missing-positive) |
+| [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh10172005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh10172005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -80,6 +82,7 @@ C++
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harsh10172005/DSA/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harsh10172005/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
