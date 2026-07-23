@@ -62,6 +62,7 @@ C++
 | [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh10172005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh10172005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/Harsh10172005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Harsh10172005/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Harsh10172005/DSA/tree/master/0162-find-peak-element) |
@@ -173,6 +174,7 @@ C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Harsh10172005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Harsh10172005/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Harsh10172005/DSA/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Harsh10172005/DSA/tree/master/0647-palindromic-substrings) |
