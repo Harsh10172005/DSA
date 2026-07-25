@@ -17,6 +17,7 @@ C++
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh10172005/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsh10172005/DSA/tree/master/2769-find-the-maximum-achievable-number) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harsh10172005/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ C++
 | [0414-third-maximum-number](https://github.com/Harsh10172005/DSA/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh10172005/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3536-maximum-product-of-two-digits](https://github.com/Harsh10172005/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching
 |  |
 | ------- |
