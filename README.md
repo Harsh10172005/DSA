@@ -84,6 +84,7 @@ C++
 | [0643-maximum-average-subarray-i](https://github.com/Harsh10172005/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Harsh10172005/DSA/tree/master/0739-daily-temperatures) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Harsh10172005/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsh10172005/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/Harsh10172005/DSA/tree/master/1652-defuse-the-bomb) |
@@ -134,6 +135,7 @@ C++
 | ------- |
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Harsh10172005/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harsh10172005/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Bit Manipulation
