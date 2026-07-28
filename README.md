@@ -61,6 +61,7 @@ C++
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh10172005/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Harsh10172005/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh10172005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +117,7 @@ C++
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh10172005/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh10172005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh10172005/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching
 |  |
@@ -268,4 +270,8 @@ C++
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh10172005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
