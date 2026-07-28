@@ -36,6 +36,7 @@ C++
 | [0647-palindromic-substrings](https://github.com/Harsh10172005/DSA/tree/master/0647-palindromic-substrings) |
 | [0925-long-pressed-name](https://github.com/Harsh10172005/DSA/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh10172005/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -58,6 +59,7 @@ C++
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh10172005/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harsh10172005/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh10172005/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Harsh10172005/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Array
 |  |
@@ -96,6 +98,7 @@ C++
 | [1652-defuse-the-bomb](https://github.com/Harsh10172005/DSA/tree/master/1652-defuse-the-bomb) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh10172005/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Harsh10172005/DSA/tree/master/1929-concatenation-of-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh10172005/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh10172005/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harsh10172005/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
