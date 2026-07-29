@@ -7,9 +7,10 @@ public:
         vector<int> freq(26,0);
         for(int right = 0;right<s.size();right++){
             freq[s[right] - 'A']++;
-            for (int i = 0; i < 26; i++) {
-                max_freq = max(max_freq, freq[i]);
-            }
+            // for (int i = 0; i < 26; i++) {
+            //     max_freq = max(max_freq, freq[i]);
+            // }
+            max_freq = max(max_freq,freq[s[right] - 'A']); // ismpe max feq minus nhi karte but wo fir bhi valid hi rehta hai
             while(right-left+1-max_freq>k){
                 freq[s[left] - 'A']--;
                 left++;   
