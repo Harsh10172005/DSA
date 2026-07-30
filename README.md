@@ -20,6 +20,7 @@ C++
 | [2652-sum-multiples](https://github.com/Harsh10172005/DSA/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsh10172005/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harsh10172005/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh10172005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh10172005/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -63,6 +64,7 @@ C++
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh10172005/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2390-removing-stars-from-a-string](https://github.com/Harsh10172005/DSA/tree/master/2390-removing-stars-from-a-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh10172005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh10172005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
@@ -157,6 +159,7 @@ C++
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Harsh10172005/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harsh10172005/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh10172005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
