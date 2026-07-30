@@ -93,6 +93,7 @@ C++
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Harsh10172005/DSA/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Harsh10172005/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Harsh10172005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0503-next-greater-element-ii) |
@@ -122,6 +123,7 @@ C++
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/Harsh10172005/DSA/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harsh10172005/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -208,6 +210,7 @@ C++
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh10172005/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Harsh10172005/DSA/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Harsh10172005/DSA/tree/master/0567-permutation-in-string) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harsh10172005/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
