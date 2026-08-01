@@ -1,7 +1,6 @@
 class Solution {
 public:
     bool canEat(vector<int>& piles, int h , int speed){
-        bool check = false;
         long long count = 0;
         for(int i = 0;i<piles.size();i++){
                 int a = piles[i]/speed;
@@ -11,11 +10,7 @@ public:
                     count++;
                 }
         }
-        if(count <= h){
-            check = true;
-            return check;
-        }
-        return check;
+        return count<=h;
     }
     int minEatingSpeed(vector<int>& piles, int h) {
         int low = 1;
