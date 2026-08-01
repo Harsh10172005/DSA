@@ -101,6 +101,7 @@ C++
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harsh10172005/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh10172005/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/Harsh10172005/DSA/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/Harsh10172005/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Harsh10172005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh10172005/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -206,6 +207,7 @@ C++
 | [0374-guess-number-higher-or-lower](https://github.com/Harsh10172005/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/Harsh10172005/DSA/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/Harsh10172005/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0875-koko-eating-bananas](https://github.com/Harsh10172005/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh10172005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harsh10172005/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Hash Table
