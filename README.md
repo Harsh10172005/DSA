@@ -27,6 +27,7 @@ C++
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harsh10172005/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Harsh10172005/DSA/tree/master/0018-4sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Harsh10172005/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
@@ -80,6 +81,7 @@ C++
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh10172005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Harsh10172005/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Harsh10172005/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Harsh10172005/DSA/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Harsh10172005/DSA/tree/master/0035-search-insert-position) |
@@ -135,6 +137,7 @@ C++
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Harsh10172005/DSA/tree/master/0015-3sum) |
+| [0018-4sum](https://github.com/Harsh10172005/DSA/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harsh10172005/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
