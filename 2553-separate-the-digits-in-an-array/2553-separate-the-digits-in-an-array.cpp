@@ -2,16 +2,18 @@ class Solution {
 public:
     vector<int> separateDigits(vector<int>& nums) {
         vector<int> ans;
-        vector<int> vec;
-        for(int i = 0;i<nums.size();i++){
-            while(nums[i]){
-                int j = nums[i]%10;
-                vec.push_back(j);
-                nums[i]/=10;
-            }
-            ans.insert(ans.end(), vec.rbegin(), vec.rend());
-            vec.clear();
+        string str = "";
+
+        for (int i = 0; i < nums.size(); i++) {
+
+            str += to_string(nums[i]);
         }
+        int str_size = str.size();
+
+        for (int i = 0; i < str_size; i++) {
+            ans.push_back(str[i] - '0');
+        }
+
         return ans;
         
     }
