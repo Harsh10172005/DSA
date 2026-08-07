@@ -22,6 +22,7 @@ C++
 | [2769-find-the-maximum-achievable-number](https://github.com/Harsh10172005/DSA/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Harsh10172005/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh10172005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Harsh10172005/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsh10172005/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh10172005/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -75,6 +76,7 @@ C++
 | [2390-removing-stars-from-a-string](https://github.com/Harsh10172005/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh10172005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh10172005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Harsh10172005/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh10172005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
 |  |
@@ -273,6 +275,7 @@ C++
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harsh10172005/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh10172005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Harsh10172005/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3866-first-unique-even-element](https://github.com/Harsh10172005/DSA/tree/master/3866-first-unique-even-element) |
 ## Dynamic Programming
 |  |
