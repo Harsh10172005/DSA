@@ -103,6 +103,7 @@ C++
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Harsh10172005/DSA/tree/master/0239-sliding-window-maximum) |
 | [0410-split-array-largest-sum](https://github.com/Harsh10172005/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Harsh10172005/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -312,6 +313,7 @@ C++
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Harsh10172005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harsh10172005/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/Harsh10172005/DSA/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -341,6 +343,7 @@ C++
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh10172005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Harsh10172005/DSA/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Harsh10172005/DSA/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh10172005/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Harsh10172005/DSA/tree/master/0567-permutation-in-string) |
@@ -353,6 +356,7 @@ C++
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Harsh10172005/DSA/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Harsh10172005/DSA/tree/master/2974-minimum-number-game) |
 ## Counting Sort
@@ -371,4 +375,12 @@ C++
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsh10172005/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harsh10172005/DSA/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Harsh10172005/DSA/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
