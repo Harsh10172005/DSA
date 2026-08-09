@@ -133,6 +133,7 @@ C++
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsh10172005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Harsh10172005/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1652-defuse-the-bomb](https://github.com/Harsh10172005/DSA/tree/master/1652-defuse-the-bomb) |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Harsh10172005/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh10172005/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Harsh10172005/DSA/tree/master/1929-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh10172005/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
