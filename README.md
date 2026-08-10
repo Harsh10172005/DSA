@@ -107,6 +107,7 @@ C++
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Harsh10172005/DSA/tree/master/0239-sliding-window-maximum) |
+| [0303-range-sum-query-immutable](https://github.com/Harsh10172005/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh10172005/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Harsh10172005/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Harsh10172005/DSA/tree/master/0414-third-maximum-number) |
@@ -224,6 +225,7 @@ C++
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/Harsh10172005/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Harsh10172005/DSA/tree/master/0410-split-array-largest-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh10172005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh10172005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -322,6 +324,7 @@ C++
 | [0155-min-stack](https://github.com/Harsh10172005/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Harsh10172005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harsh10172005/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/Harsh10172005/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Harsh10172005/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
