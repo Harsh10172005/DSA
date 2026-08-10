@@ -117,6 +117,7 @@ C++
 | [0503-next-greater-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harsh10172005/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh10172005/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/Harsh10172005/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Harsh10172005/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Harsh10172005/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Harsh10172005/DSA/tree/master/0877-stone-game) |
@@ -227,6 +228,7 @@ C++
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/Harsh10172005/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Harsh10172005/DSA/tree/master/0410-split-array-largest-sum) |
+| [0724-find-pivot-index](https://github.com/Harsh10172005/DSA/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh10172005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh10172005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsh10172005/DSA/tree/master/1480-running-sum-of-1d-array) |
