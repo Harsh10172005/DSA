@@ -126,6 +126,7 @@ C++
 | [0904-fruit-into-baskets](https://github.com/Harsh10172005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Harsh10172005/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh10172005/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harsh10172005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh10172005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harsh10172005/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -233,6 +234,7 @@ C++
 | [0410-split-array-largest-sum](https://github.com/Harsh10172005/DSA/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh10172005/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Harsh10172005/DSA/tree/master/0724-find-pivot-index) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harsh10172005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh10172005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh10172005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsh10172005/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -282,6 +284,7 @@ C++
 | [0567-permutation-in-string](https://github.com/Harsh10172005/DSA/tree/master/0567-permutation-in-string) |
 | [0888-fair-candy-swap](https://github.com/Harsh10172005/DSA/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/Harsh10172005/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harsh10172005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harsh10172005/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harsh10172005/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -375,6 +378,7 @@ C++
 | [0567-permutation-in-string](https://github.com/Harsh10172005/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh10172005/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Harsh10172005/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/Harsh10172005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh10172005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh10172005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh10172005/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
