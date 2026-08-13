@@ -110,6 +110,7 @@ C++
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Harsh10172005/DSA/tree/master/0239-sliding-window-maximum) |
+| [0260-single-number-iii](https://github.com/Harsh10172005/DSA/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/Harsh10172005/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh10172005/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Harsh10172005/DSA/tree/master/0410-split-array-largest-sum) |
@@ -229,6 +230,7 @@ C++
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Harsh10172005/DSA/tree/master/0137-single-number-ii) |
+| [0260-single-number-iii](https://github.com/Harsh10172005/DSA/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
 | [1486-xor-operation-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1486-xor-operation-in-an-array) |
 ## Recursion
