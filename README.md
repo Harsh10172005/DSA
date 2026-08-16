@@ -6,6 +6,7 @@ C++
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Harsh10172005/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harsh10172005/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh10172005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Harsh10172005/DSA/tree/master/0263-ugly-number) |
@@ -100,6 +101,7 @@ C++
 | [0041-first-missing-positive](https://github.com/Harsh10172005/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Harsh10172005/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Harsh10172005/DSA/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Harsh10172005/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh10172005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Harsh10172005/DSA/tree/master/0137-single-number-ii) |
