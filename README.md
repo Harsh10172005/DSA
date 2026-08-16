@@ -57,6 +57,7 @@ C++
 | [0014-longest-common-prefix](https://github.com/Harsh10172005/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Harsh10172005/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Harsh10172005/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
@@ -98,6 +99,7 @@ C++
 | [0035-search-insert-position](https://github.com/Harsh10172005/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Harsh10172005/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Harsh10172005/DSA/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Harsh10172005/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh10172005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0137-single-number-ii](https://github.com/Harsh10172005/DSA/tree/master/0137-single-number-ii) |
@@ -172,6 +174,7 @@ C++
 | [0015-3sum](https://github.com/Harsh10172005/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harsh10172005/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harsh10172005/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Harsh10172005/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Harsh10172005/DSA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
@@ -294,6 +297,7 @@ C++
 | [0001-two-sum](https://github.com/Harsh10172005/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harsh10172005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Harsh10172005/DSA/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Harsh10172005/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Harsh10172005/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Harsh10172005/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
