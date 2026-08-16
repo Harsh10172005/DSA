@@ -14,6 +14,7 @@ C++
 | [0523-continuous-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Harsh10172005/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Harsh10172005/DSA/tree/master/0877-stone-game) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Harsh10172005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh10172005/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -140,6 +141,7 @@ C++
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harsh10172005/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Harsh10172005/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1200-minimum-absolute-difference](https://github.com/Harsh10172005/DSA/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Harsh10172005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Harsh10172005/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh10172005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -255,6 +257,7 @@ C++
 | [0930-binary-subarrays-with-sum](https://github.com/Harsh10172005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Harsh10172005/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh10172005/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Harsh10172005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh10172005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsh10172005/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Binary Search
@@ -307,6 +310,7 @@ C++
 | [0904-fruit-into-baskets](https://github.com/Harsh10172005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harsh10172005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Harsh10172005/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Harsh10172005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harsh10172005/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harsh10172005/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -403,6 +407,7 @@ C++
 | [0904-fruit-into-baskets](https://github.com/Harsh10172005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Harsh10172005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh10172005/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Harsh10172005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh10172005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh10172005/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1652-defuse-the-bomb](https://github.com/Harsh10172005/DSA/tree/master/1652-defuse-the-bomb) |
