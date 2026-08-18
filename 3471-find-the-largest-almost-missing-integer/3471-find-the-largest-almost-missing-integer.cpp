@@ -2,11 +2,11 @@ class Solution {
 public:
     int largestInteger(vector<int>& nums, int k) {
         int maxi = -1;
-        if(k==1){
-            unordered_map<int,int> mpp;
-            for(int i =0;i<nums.size();i++){
-                mpp[nums[i]]++;
-            }
+        unordered_map<int,int> mpp;
+        for(int i =0;i<nums.size();i++){
+            mpp[nums[i]]++;
+        }
+        if(k==1){   
             for(auto it:mpp){
                 if(it.second==1){
                     maxi = max(it.first,maxi);
@@ -19,10 +19,6 @@ public:
             }
         }
         else{
-            unordered_map<int,int> mpp;
-            for(int i =0;i<nums.size();i++){
-                mpp[nums[i]]++;
-            }
             if(mpp[nums[0]]==1 && mpp[nums[nums.size()-1]]==1){
                 return max(nums[0],nums[nums.size()-1]);
             }
