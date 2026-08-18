@@ -70,6 +70,7 @@ C++
 | [0567-permutation-in-string](https://github.com/Harsh10172005/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Harsh10172005/DSA/tree/master/0647-palindromic-substrings) |
 | [0686-repeated-string-match](https://github.com/Harsh10172005/DSA/tree/master/0686-repeated-string-match) |
+| [0709-to-lower-case](https://github.com/Harsh10172005/DSA/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Harsh10172005/DSA/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1021-remove-outermost-parentheses) |
