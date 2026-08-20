@@ -158,6 +158,7 @@ C++
 | [1480-running-sum-of-1d-array](https://github.com/Harsh10172005/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsh10172005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Harsh10172005/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1550-three-consecutive-odds](https://github.com/Harsh10172005/DSA/tree/master/1550-three-consecutive-odds) |
 | [1652-defuse-the-bomb](https://github.com/Harsh10172005/DSA/tree/master/1652-defuse-the-bomb) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Harsh10172005/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh10172005/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
