@@ -87,6 +87,7 @@ C++
 | [2390-removing-stars-from-a-string](https://github.com/Harsh10172005/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Harsh10172005/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh10172005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3019-number-of-changing-keys](https://github.com/Harsh10172005/DSA/tree/master/3019-number-of-changing-keys) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Harsh10172005/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh10172005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Array
