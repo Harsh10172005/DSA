@@ -383,6 +383,7 @@ C++
 | [0225-implement-stack-using-queues](https://github.com/Harsh10172005/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Harsh10172005/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/Harsh10172005/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harsh10172005/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Harsh10172005/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
@@ -403,6 +404,7 @@ C++
 ## Data Stream
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harsh10172005/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/Harsh10172005/DSA/tree/master/0901-online-stock-span) |
 ## Divide and Conquer
 |  |
@@ -436,6 +438,7 @@ C++
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Harsh10172005/DSA/tree/master/0239-sliding-window-maximum) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harsh10172005/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Harsh10172005/DSA/tree/master/2974-minimum-number-game) |
 ## Counting Sort
@@ -470,4 +473,16 @@ C++
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Harsh10172005/DSA/tree/master/3024-type-of-triangle) |
+## Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harsh10172005/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harsh10172005/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/Harsh10172005/DSA/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
