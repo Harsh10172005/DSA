@@ -141,6 +141,7 @@ C++
 | [0560-subarray-sum-equals-k](https://github.com/Harsh10172005/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harsh10172005/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh10172005/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/Harsh10172005/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Harsh10172005/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Harsh10172005/DSA/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Harsh10172005/DSA/tree/master/0875-koko-eating-bananas) |
@@ -240,6 +241,7 @@ C++
 | [0496-next-greater-element-i](https://github.com/Harsh10172005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harsh10172005/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0682-baseball-game](https://github.com/Harsh10172005/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Harsh10172005/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Harsh10172005/DSA/tree/master/0901-online-stock-span) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -386,6 +388,7 @@ C++
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Harsh10172005/DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Harsh10172005/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Harsh10172005/DSA/tree/master/2390-removing-stars-from-a-string) |
