@@ -12,6 +12,7 @@ C++
 | [0263-ugly-number](https://github.com/Harsh10172005/DSA/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Harsh10172005/DSA/tree/master/0343-integer-break) |
+| [0367-valid-perfect-square](https://github.com/Harsh10172005/DSA/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Harsh10172005/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/Harsh10172005/DSA/tree/master/0877-stone-game) |
@@ -312,6 +313,7 @@ C++
 | [0209-minimum-size-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/Harsh10172005/DSA/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh10172005/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/Harsh10172005/DSA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Harsh10172005/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harsh10172005/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Harsh10172005/DSA/tree/master/0410-split-array-largest-sum) |
