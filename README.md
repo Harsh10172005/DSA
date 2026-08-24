@@ -169,6 +169,7 @@ C++
 | [1539-kth-missing-positive-number](https://github.com/Harsh10172005/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Harsh10172005/DSA/tree/master/1550-three-consecutive-odds) |
 | [1652-defuse-the-bomb](https://github.com/Harsh10172005/DSA/tree/master/1652-defuse-the-bomb) |
+| [1672-richest-customer-wealth](https://github.com/Harsh10172005/DSA/tree/master/1672-richest-customer-wealth) |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Harsh10172005/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh10172005/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Harsh10172005/DSA/tree/master/1929-concatenation-of-array) |
@@ -527,4 +528,5 @@ C++
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harsh10172005/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Harsh10172005/DSA/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
