@@ -75,6 +75,7 @@ C++
 | [0520-detect-capital](https://github.com/Harsh10172005/DSA/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Harsh10172005/DSA/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Harsh10172005/DSA/tree/master/0647-palindromic-substrings) |
+| [0657-robot-return-to-origin](https://github.com/Harsh10172005/DSA/tree/master/0657-robot-return-to-origin) |
 | [0686-repeated-string-match](https://github.com/Harsh10172005/DSA/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Harsh10172005/DSA/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -391,6 +392,7 @@ C++
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Harsh10172005/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Harsh10172005/DSA/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/Harsh10172005/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
