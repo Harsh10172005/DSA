@@ -1,13 +1,13 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-    int prefix = 0;
-    int minPrefix = 0;
+    int prefixsum = 0;
+    int minPrefixsum = 0;
     int ans = INT_MIN;
     for(int x : nums) {
-        prefix += x;
-        ans = max(ans, prefix - minPrefix);
-        minPrefix = min(minPrefix, prefix);
+        prefixsum += x;
+        ans = max(ans, prefixsum - minPrefixsum);
+        minPrefixsum = min(minPrefixsum, prefixsum);
     }
     return ans;
 }
