@@ -113,6 +113,7 @@ C++
 | [0041-first-missing-positive](https://github.com/Harsh10172005/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Harsh10172005/DSA/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Harsh10172005/DSA/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/Harsh10172005/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Harsh10172005/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh10172005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -383,6 +384,7 @@ C++
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harsh10172005/DSA/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Harsh10172005/DSA/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/Harsh10172005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Harsh10172005/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Harsh10172005/DSA/tree/master/0392-is-subsequence) |
@@ -439,6 +441,7 @@ C++
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh10172005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/Harsh10172005/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Harsh10172005/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh10172005/DSA/tree/master/0347-top-k-frequent-elements) |
