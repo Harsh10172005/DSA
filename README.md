@@ -73,6 +73,7 @@ C++
 | [0151-reverse-words-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh10172005/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/Harsh10172005/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Harsh10172005/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Harsh10172005/DSA/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Harsh10172005/DSA/tree/master/0415-add-strings) |
@@ -219,6 +220,7 @@ C++
 | [0347-top-k-frequent-elements](https://github.com/Harsh10172005/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh10172005/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Harsh10172005/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/Harsh10172005/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Harsh10172005/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harsh10172005/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -282,6 +284,7 @@ C++
 | [0137-single-number-ii](https://github.com/Harsh10172005/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Harsh10172005/DSA/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Harsh10172005/DSA/tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Harsh10172005/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1486-xor-operation-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harsh10172005/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -350,6 +353,7 @@ C++
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh10172005/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh10172005/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Harsh10172005/DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh10172005/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
