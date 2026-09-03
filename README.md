@@ -9,6 +9,7 @@ C++
 | [0066-plus-one](https://github.com/Harsh10172005/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harsh10172005/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh10172005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/Harsh10172005/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Harsh10172005/DSA/tree/master/0263-ugly-number) |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/Harsh10172005/DSA/tree/master/0343-integer-break) |
@@ -50,6 +51,7 @@ C++
 | [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Harsh10172005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/Harsh10172005/DSA/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh10172005/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh10172005/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Harsh10172005/DSA/tree/master/0392-is-subsequence) |
@@ -362,6 +364,7 @@ C++
 | [0076-minimum-window-substring](https://github.com/Harsh10172005/DSA/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh10172005/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Harsh10172005/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Harsh10172005/DSA/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh10172005/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh10172005/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -577,4 +580,8 @@ C++
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harsh10172005/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Harsh10172005/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
