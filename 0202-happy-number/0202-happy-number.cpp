@@ -11,11 +11,10 @@ public:
     }
     bool isHappy(int n) {
         unordered_set<int> st;
-        while( n != 1){
-            if(st.count(n)) return false;
+        while( n != 1 && !st.count(n)){
             st.insert(n);
             n = Happy(n);
         }
-        return true;
+        return n==1;
     }
 };
