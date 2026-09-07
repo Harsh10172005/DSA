@@ -308,6 +308,7 @@ C++
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Harsh10172005/DSA/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Harsh10172005/DSA/tree/master/0394-decode-string) |
 ## Prefix Sum
@@ -593,4 +594,8 @@ C++
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harsh10172005/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Harsh10172005/DSA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
