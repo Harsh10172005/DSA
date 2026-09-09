@@ -8,6 +8,7 @@ C++
 | ------- |
 | [0066-plus-one](https://github.com/Harsh10172005/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Harsh10172005/DSA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Harsh10172005/DSA/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh10172005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Harsh10172005/DSA/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/Harsh10172005/DSA/tree/master/0263-ugly-number) |
@@ -422,6 +423,7 @@ C++
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harsh10172005/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harsh10172005/DSA/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Harsh10172005/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/Harsh10172005/DSA/tree/master/0152-maximum-product-subarray) |
 | [0343-integer-break](https://github.com/Harsh10172005/DSA/tree/master/0343-integer-break) |
 | [0392-is-subsequence](https://github.com/Harsh10172005/DSA/tree/master/0392-is-subsequence) |
@@ -601,4 +603,8 @@ C++
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Harsh10172005/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh10172005/DSA/tree/master/0876-middle-of-the-linked-list) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harsh10172005/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
