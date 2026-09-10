@@ -317,6 +317,7 @@ C++
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/Harsh10172005/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harsh10172005/DSA/tree/master/0206-reverse-linked-list) |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/Harsh10172005/DSA/tree/master/0394-decode-string) |
@@ -615,6 +616,7 @@ C++
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Harsh10172005/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh10172005/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0203-remove-linked-list-elements](https://github.com/Harsh10172005/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harsh10172005/DSA/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh10172005/DSA/tree/master/0876-middle-of-the-linked-list) |
 ## Memoization
