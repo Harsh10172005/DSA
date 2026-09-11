@@ -51,6 +51,7 @@ C++
 | [0015-3sum](https://github.com/Harsh10172005/DSA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Harsh10172005/DSA/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Harsh10172005/DSA/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh10172005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Harsh10172005/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
@@ -614,6 +615,7 @@ C++
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Harsh10172005/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Harsh10172005/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Harsh10172005/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/Harsh10172005/DSA/tree/master/0203-remove-linked-list-elements) |
