@@ -224,6 +224,7 @@ C++
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harsh10172005/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3467-transform-array-by-parity](https://github.com/Harsh10172005/DSA/tree/master/3467-transform-array-by-parity) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harsh10172005/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh10172005/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harsh10172005/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsh10172005/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harsh10172005/DSA/tree/master/3731-find-missing-elements) |
@@ -327,6 +328,7 @@ C++
 | [0394-decode-string](https://github.com/Harsh10172005/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Harsh10172005/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Harsh10172005/DSA/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh10172005/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -415,6 +417,7 @@ C++
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsh10172005/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh10172005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harsh10172005/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh10172005/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsh10172005/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harsh10172005/DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Harsh10172005/DSA/tree/master/3866-first-unique-even-element) |
@@ -552,6 +555,7 @@ C++
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsh10172005/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Harsh10172005/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Queue
 |  |
 | ------- |
