@@ -19,6 +19,7 @@ C++
 | [0509-fibonacci-number](https://github.com/Harsh10172005/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Harsh10172005/DSA/tree/master/0633-sum-of-square-numbers) |
+| [0836-rectangle-overlap](https://github.com/Harsh10172005/DSA/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Harsh10172005/DSA/tree/master/0877-stone-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harsh10172005/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Harsh10172005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -609,6 +610,7 @@ C++
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/Harsh10172005/DSA/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Harsh10172005/DSA/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Floyd's Cycle Finding Algorithm
 |  |
