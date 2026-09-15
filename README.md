@@ -141,6 +141,7 @@ C++
 | [0035-search-insert-position](https://github.com/Harsh10172005/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Harsh10172005/DSA/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Harsh10172005/DSA/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/Harsh10172005/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Harsh10172005/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Harsh10172005/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Harsh10172005/DSA/tree/master/0056-merge-intervals) |
@@ -643,4 +644,8 @@ C++
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Harsh10172005/DSA/tree/master/0056-merge-intervals) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Harsh10172005/DSA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
