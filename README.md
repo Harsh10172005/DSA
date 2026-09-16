@@ -92,6 +92,7 @@ C++
 | [0151-reverse-words-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Harsh10172005/DSA/tree/master/0179-largest-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh10172005/DSA/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/Harsh10172005/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Harsh10172005/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Harsh10172005/DSA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Harsh10172005/DSA/tree/master/0394-decode-string) |
@@ -398,6 +399,7 @@ C++
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh10172005/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh10172005/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Harsh10172005/DSA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Harsh10172005/DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh10172005/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -431,6 +433,7 @@ C++
 | [0169-majority-element](https://github.com/Harsh10172005/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh10172005/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Harsh10172005/DSA/tree/master/0383-ransom-note) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harsh10172005/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harsh10172005/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
