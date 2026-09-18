@@ -66,6 +66,7 @@ C++
 | [0345-reverse-vowels-of-a-string](https://github.com/Harsh10172005/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harsh10172005/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Harsh10172005/DSA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/Harsh10172005/DSA/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Harsh10172005/DSA/tree/master/0481-magical-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harsh10172005/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Harsh10172005/DSA/tree/master/0567-permutation-in-string) |
@@ -100,6 +101,7 @@ C++
 | [0415-add-strings](https://github.com/Harsh10172005/DSA/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Harsh10172005/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/Harsh10172005/DSA/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Harsh10172005/DSA/tree/master/0481-magical-string) |
 | [0520-detect-capital](https://github.com/Harsh10172005/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harsh10172005/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
