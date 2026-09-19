@@ -40,6 +40,7 @@ C++
 | [3024-type-of-triangle](https://github.com/Harsh10172005/DSA/tree/master/3024-type-of-triangle) |
 | [3084-count-substrings-starting-and-ending-with-given-character](https://github.com/Harsh10172005/DSA/tree/master/3084-count-substrings-starting-and-ending-with-given-character) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Harsh10172005/DSA/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Harsh10172005/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsh10172005/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh10172005/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harsh10172005/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -326,6 +327,7 @@ C++
 | [1018-binary-prefix-divisible-by-5](https://github.com/Harsh10172005/DSA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1486-xor-operation-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2351-first-letter-to-appear-twice](https://github.com/Harsh10172005/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Harsh10172005/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harsh10172005/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Recursion
 |  |
@@ -336,6 +338,7 @@ C++
 | [0394-decode-string](https://github.com/Harsh10172005/DSA/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/Harsh10172005/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/Harsh10172005/DSA/tree/master/1922-count-good-numbers) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Harsh10172005/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harsh10172005/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Prefix Sum
 |  |
@@ -478,6 +481,7 @@ C++
 | [2553-separate-the-digits-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/2553-separate-the-digits-in-an-array) |
 | [2974-minimum-number-game](https://github.com/Harsh10172005/DSA/tree/master/2974-minimum-number-game) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Harsh10172005/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Harsh10172005/DSA/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
