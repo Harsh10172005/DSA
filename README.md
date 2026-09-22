@@ -154,6 +154,7 @@ C++
 | [0056-merge-intervals](https://github.com/Harsh10172005/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Harsh10172005/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harsh10172005/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Harsh10172005/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Harsh10172005/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Harsh10172005/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0137-single-number-ii](https://github.com/Harsh10172005/DSA/tree/master/0137-single-number-ii) |
@@ -324,6 +325,7 @@ C++
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Harsh10172005/DSA/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Harsh10172005/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/Harsh10172005/DSA/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
@@ -666,4 +668,5 @@ C++
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Harsh10172005/DSA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/Harsh10172005/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
