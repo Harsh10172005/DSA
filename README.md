@@ -193,6 +193,7 @@ C++
 | [0682-baseball-game](https://github.com/Harsh10172005/DSA/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/Harsh10172005/DSA/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Harsh10172005/DSA/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Harsh10172005/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/Harsh10172005/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Harsh10172005/DSA/tree/master/0877-stone-game) |
 | [0888-fair-candy-swap](https://github.com/Harsh10172005/DSA/tree/master/0888-fair-candy-swap) |
@@ -476,6 +477,7 @@ C++
 | [0410-split-array-largest-sum](https://github.com/Harsh10172005/DSA/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Harsh10172005/DSA/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/Harsh10172005/DSA/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/Harsh10172005/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Harsh10172005/DSA/tree/master/0877-stone-game) |
 ## Interactive
 |  |
