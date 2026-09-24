@@ -7,9 +7,7 @@ public:
             while(num){
                 sum+=num%10;
                 num/=10;
-                cout<<sum<<endl;
             }
-            cout<<sum<<endl;
             if(sum==i){
                 return i;
             }
