@@ -17,6 +17,7 @@ C++
 | [0367-valid-perfect-square](https://github.com/Harsh10172005/DSA/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Harsh10172005/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harsh10172005/DSA/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/Harsh10172005/DSA/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Harsh10172005/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Harsh10172005/DSA/tree/master/0633-sum-of-square-numbers) |
@@ -106,6 +107,7 @@ C++
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/Harsh10172005/DSA/tree/master/0443-string-compression) |
 | [0481-magical-string](https://github.com/Harsh10172005/DSA/tree/master/0481-magical-string) |
+| [0504-base-7](https://github.com/Harsh10172005/DSA/tree/master/0504-base-7) |
 | [0520-detect-capital](https://github.com/Harsh10172005/DSA/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Harsh10172005/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/Harsh10172005/DSA/tree/master/0567-permutation-in-string) |
