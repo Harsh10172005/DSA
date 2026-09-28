@@ -119,6 +119,7 @@ C++
 | [0925-long-pressed-name](https://github.com/Harsh10172005/DSA/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh10172005/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harsh10172005/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harsh10172005/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh10172005/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -314,6 +315,7 @@ C++
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh10172005/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2390-removing-stars-from-a-string](https://github.com/Harsh10172005/DSA/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
@@ -624,6 +626,7 @@ C++
 ## Bracket Sequences
 |  |
 | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quickselect
 |  |
