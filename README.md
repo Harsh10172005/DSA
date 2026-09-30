@@ -339,6 +339,7 @@ C++
 | [0078-subsets](https://github.com/Harsh10172005/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harsh10172005/DSA/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/Harsh10172005/DSA/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Harsh10172005/DSA/tree/master/0190-reverse-bits) |
 | [0260-single-number-iii](https://github.com/Harsh10172005/DSA/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/Harsh10172005/DSA/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Harsh10172005/DSA/tree/master/0389-find-the-difference) |
@@ -542,6 +543,7 @@ C++
 | [0004-median-of-two-sorted-arrays](https://github.com/Harsh10172005/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Harsh10172005/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Harsh10172005/DSA/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Harsh10172005/DSA/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Harsh10172005/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Ordered Set
