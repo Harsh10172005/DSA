@@ -629,6 +629,7 @@ C++
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quickselect
