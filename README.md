@@ -93,6 +93,7 @@ C++
 | [0014-longest-common-prefix](https://github.com/Harsh10172005/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0032-longest-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Harsh10172005/DSA/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Harsh10172005/DSA/tree/master/0076-minimum-window-substring) |
 | [0151-reverse-words-in-a-string](https://github.com/Harsh10172005/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -302,6 +303,7 @@ C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harsh10172005/DSA/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Harsh10172005/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Harsh10172005/DSA/tree/master/0155-min-stack) |
@@ -478,6 +480,7 @@ C++
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Harsh10172005/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harsh10172005/DSA/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Harsh10172005/DSA/tree/master/0070-climbing-stairs) |
@@ -634,6 +637,7 @@ C++
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Quickselect
