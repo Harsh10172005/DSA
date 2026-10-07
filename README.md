@@ -33,6 +33,7 @@ C++
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsh10172005/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Harsh10172005/DSA/tree/master/1922-count-good-numbers) |
+| [2396-strictly-palindromic-number](https://github.com/Harsh10172005/DSA/tree/master/2396-strictly-palindromic-number) |
 | [2485-find-the-pivot-integer](https://github.com/Harsh10172005/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Harsh10172005/DSA/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh10172005/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -85,6 +86,7 @@ C++
 | [0977-squares-of-a-sorted-array](https://github.com/Harsh10172005/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh10172005/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/Harsh10172005/DSA/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -703,4 +705,8 @@ C++
 | [0046-permutations](https://github.com/Harsh10172005/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Harsh10172005/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harsh10172005/DSA/tree/master/0090-subsets-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/Harsh10172005/DSA/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
