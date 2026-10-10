@@ -198,6 +198,7 @@ C++
 | [0523-continuous-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Harsh10172005/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Harsh10172005/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0565-array-nesting](https://github.com/Harsh10172005/DSA/tree/master/0565-array-nesting) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harsh10172005/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/Harsh10172005/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Harsh10172005/DSA/tree/master/0682-baseball-game) |
@@ -710,4 +711,8 @@ C++
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Harsh10172005/DSA/tree/master/2396-strictly-palindromic-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0565-array-nesting](https://github.com/Harsh10172005/DSA/tree/master/0565-array-nesting) |
 <!---LeetCode Topics End-->
