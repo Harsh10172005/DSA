@@ -138,6 +138,7 @@ C++
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Harsh10172005/DSA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh10172005/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2264-largest-3-same-digit-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/Harsh10172005/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/Harsh10172005/DSA/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harsh10172005/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
