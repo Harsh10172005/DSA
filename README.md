@@ -248,6 +248,7 @@ C++
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harsh10172005/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Harsh10172005/DSA/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harsh10172005/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Harsh10172005/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harsh10172005/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/Harsh10172005/DSA/tree/master/2974-minimum-number-game) |
@@ -620,6 +621,7 @@ C++
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Harsh10172005/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Harsh10172005/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harsh10172005/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Queue
