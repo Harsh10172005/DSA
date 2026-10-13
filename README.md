@@ -231,6 +231,7 @@ C++
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh10172005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harsh10172005/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Harsh10172005/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsh10172005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1512-number-of-good-pairs](https://github.com/Harsh10172005/DSA/tree/master/1512-number-of-good-pairs) |
@@ -428,6 +429,7 @@ C++
 | [1004-max-consecutive-ones-iii](https://github.com/Harsh10172005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Harsh10172005/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Harsh10172005/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harsh10172005/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsh10172005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Harsh10172005/DSA/tree/master/1539-kth-missing-positive-number) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Harsh10172005/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -467,6 +469,7 @@ C++
 | [1248-count-number-of-nice-subarrays](https://github.com/Harsh10172005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Harsh10172005/DSA/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harsh10172005/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1512-number-of-good-pairs](https://github.com/Harsh10172005/DSA/tree/master/1512-number-of-good-pairs) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/Harsh10172005/DSA/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Harsh10172005/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -515,6 +518,7 @@ C++
 | [0678-valid-parenthesis-string](https://github.com/Harsh10172005/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Harsh10172005/DSA/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/Harsh10172005/DSA/tree/master/0877-stone-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harsh10172005/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Interactive
 |  |
 | ------- |
@@ -595,6 +599,7 @@ C++
 | [1248-count-number-of-nice-subarrays](https://github.com/Harsh10172005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Harsh10172005/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Harsh10172005/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harsh10172005/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/Harsh10172005/DSA/tree/master/1652-defuse-the-bomb) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Harsh10172005/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Harsh10172005/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
