@@ -264,6 +264,7 @@ C++
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harsh10172005/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harsh10172005/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Harsh10172005/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Harsh10172005/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Harsh10172005/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsh10172005/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harsh10172005/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -308,6 +309,7 @@ C++
 | [3467-transform-array-by-parity](https://github.com/Harsh10172005/DSA/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Harsh10172005/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Harsh10172005/DSA/tree/master/3536-maximum-product-of-two-digits) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Harsh10172005/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Harsh10172005/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Harsh10172005/DSA/tree/master/3731-find-missing-elements) |
 ## String Matching
@@ -484,6 +486,7 @@ C++
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Harsh10172005/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Harsh10172005/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Harsh10172005/DSA/tree/master/3483-unique-3-digit-even-numbers) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Harsh10172005/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Harsh10172005/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Harsh10172005/DSA/tree/master/3731-find-missing-elements) |
 | [3866-first-unique-even-element](https://github.com/Harsh10172005/DSA/tree/master/3866-first-unique-even-element) |
