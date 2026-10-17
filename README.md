@@ -125,6 +125,7 @@ C++
 | [0709-to-lower-case](https://github.com/Harsh10172005/DSA/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0925-long-pressed-name](https://github.com/Harsh10172005/DSA/tree/master/0925-long-pressed-name) |
+| [0984-string-without-aaa-or-bbb](https://github.com/Harsh10172005/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1021-remove-outermost-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Harsh10172005/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Harsh10172005/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -352,6 +353,7 @@ C++
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harsh10172005/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh10172005/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0984-string-without-aaa-or-bbb](https://github.com/Harsh10172005/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Harsh10172005/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Harsh10172005/DSA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Harsh10172005/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
