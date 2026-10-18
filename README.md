@@ -757,4 +757,8 @@ C++
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Harsh10172005/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Harsh10172005/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
