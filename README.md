@@ -246,6 +246,7 @@ C++
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Harsh10172005/DSA/tree/master/1909-remove-one-element-to-make-the-array-strictly-increasing) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh10172005/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1929-concatenation-of-array](https://github.com/Harsh10172005/DSA/tree/master/1929-concatenation-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harsh10172005/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Harsh10172005/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Harsh10172005/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -303,6 +304,7 @@ C++
 | [1200-minimum-absolute-difference](https://github.com/Harsh10172005/DSA/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Harsh10172005/DSA/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harsh10172005/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harsh10172005/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/Harsh10172005/DSA/tree/master/2974-minimum-number-game) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Harsh10172005/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -441,6 +443,7 @@ C++
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Harsh10172005/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Harsh10172005/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Harsh10172005/DSA/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Harsh10172005/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/Harsh10172005/DSA/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Harsh10172005/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
