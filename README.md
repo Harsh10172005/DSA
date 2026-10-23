@@ -81,6 +81,7 @@ C++
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harsh10172005/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0633-sum-of-square-numbers](https://github.com/Harsh10172005/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/Harsh10172005/DSA/tree/master/0647-palindromic-substrings) |
+| [0680-valid-palindrome-ii](https://github.com/Harsh10172005/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Harsh10172005/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Harsh10172005/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Harsh10172005/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -122,6 +123,7 @@ C++
 | [0647-palindromic-substrings](https://github.com/Harsh10172005/DSA/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/Harsh10172005/DSA/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh10172005/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/Harsh10172005/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Harsh10172005/DSA/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/Harsh10172005/DSA/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/Harsh10172005/DSA/tree/master/0856-score-of-parentheses) |
@@ -357,6 +359,7 @@ C++
 | [0410-split-array-largest-sum](https://github.com/Harsh10172005/DSA/tree/master/0410-split-array-largest-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harsh10172005/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Harsh10172005/DSA/tree/master/0678-valid-parenthesis-string) |
+| [0680-valid-palindrome-ii](https://github.com/Harsh10172005/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Harsh10172005/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0984-string-without-aaa-or-bbb](https://github.com/Harsh10172005/DSA/tree/master/0984-string-without-aaa-or-bbb) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Harsh10172005/DSA/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
