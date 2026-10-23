@@ -31,6 +31,7 @@ C++
 | [1344-angle-between-hands-of-a-clock](https://github.com/Harsh10172005/DSA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1486-xor-operation-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Harsh10172005/DSA/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/Harsh10172005/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Harsh10172005/DSA/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Harsh10172005/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Harsh10172005/DSA/tree/master/1922-count-good-numbers) |
@@ -549,6 +550,7 @@ C++
 | [0415-add-strings](https://github.com/Harsh10172005/DSA/tree/master/0415-add-strings) |
 | [0657-robot-return-to-origin](https://github.com/Harsh10172005/DSA/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/Harsh10172005/DSA/tree/master/0682-baseball-game) |
+| [1688-count-of-matches-in-tournament](https://github.com/Harsh10172005/DSA/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/Harsh10172005/DSA/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Harsh10172005/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/Harsh10172005/DSA/tree/master/2390-removing-stars-from-a-string) |
