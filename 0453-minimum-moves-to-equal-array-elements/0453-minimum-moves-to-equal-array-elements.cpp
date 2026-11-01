@@ -9,7 +9,6 @@ public:
         for(int j = 0; j < nums.size(); j++){
             sum += nums[j];
         }
-
         return sum - (nums.size() * mini);
     }
 };
