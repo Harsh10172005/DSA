@@ -18,6 +18,7 @@ C++
 | [0412-fizz-buzz](https://github.com/Harsh10172005/DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Harsh10172005/DSA/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsh10172005/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harsh10172005/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0492-construct-the-rectangle](https://github.com/Harsh10172005/DSA/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/Harsh10172005/DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/Harsh10172005/DSA/tree/master/0507-perfect-number) |
@@ -209,6 +210,7 @@ C++
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Harsh10172005/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0456-132-pattern](https://github.com/Harsh10172005/DSA/tree/master/0456-132-pattern) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harsh10172005/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0496-next-greater-element-i](https://github.com/Harsh10172005/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Harsh10172005/DSA/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Harsh10172005/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -305,6 +307,7 @@ C++
 | [0389-find-the-difference](https://github.com/Harsh10172005/DSA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Harsh10172005/DSA/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harsh10172005/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harsh10172005/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Harsh10172005/DSA/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0888-fair-candy-swap](https://github.com/Harsh10172005/DSA/tree/master/0888-fair-candy-swap) |
 | [0905-sort-array-by-parity](https://github.com/Harsh10172005/DSA/tree/master/0905-sort-array-by-parity) |
